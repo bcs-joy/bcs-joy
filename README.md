@@ -16,7 +16,6 @@
 
 <div align-"center">
   <img src="https://img.shields.io/badge/solidity-20232a?style=for-the-badge&logo=solidity&logoColor=363636" />&nbsp
-  
 </div>
 
 
